@@ -1,1 +1,1 @@
-# COMP-415-Computer-Vision
+## COMP-415: Computer Vision
