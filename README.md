@@ -3,6 +3,13 @@
 - These assignments were part of **ECSE 415** - Computer Vision at **McGill University**.
 - Final Grade: **A**
 
+
+
+https://github.com/user-attachments/assets/5d86edf6-281c-404b-b864-993147f7f179
+
+
+
+
 ---
 
 ### Assignment 1: **Image Processing**
