@@ -3,12 +3,7 @@
 - These assignments were part of **ECSE 415** - Computer Vision at **McGill University**.
 - Final Grade: **A**
 
-
-
 https://github.com/user-attachments/assets/5d86edf6-281c-404b-b864-993147f7f179
-
-
-
 
 ---
 
@@ -39,3 +34,10 @@ https://github.com/user-attachments/assets/5d86edf6-281c-404b-b864-993147f7f179
 ### Assignment 5: **Segmentation**
 - Traditional segmentation approaches using clustering (K-means, Mean-shift) with Haar features
 - Modern instance segmentation using deep learning models (Mask R-CNN, YOLOv8n-seg)
+
+---
+
+### Final Project: Object Recognition
+- YOLO v3 Integration: Implemented for real-time detection and classification of vehicles and pedestrians in dashcam video streams, ensuring reliable detections using confidence thresholds.  
+- Motion Tracking and Analytics: Frame-to-frame tracking to count unique instances of parked/moving cars and pedestrians, with additional features like vehicle speed estimation and movement analysis.  
+- Efficient Video Processing: Utilized techniques like Non-Maximum Suppression (NMS) and optimized frame-by-frame processing to achieve real-time analytics and visualization.  
